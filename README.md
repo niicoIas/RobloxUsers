@@ -35,7 +35,7 @@ pip install requests colorama
 3. Execute o script:
 
 ```bash
-python nome_do_script.py
+python main.py
 ```
 
 4. Escolha uma opção no menu:
